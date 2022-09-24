@@ -18,9 +18,9 @@
 - Incorporación de otros países.
 ### Siguientes pasos
 
-- Se planea incorporar distintos países a nivel mundial y por ciudades en la medida que el tiempo me lo permita (se aceptan colaboradores) y un mayor nivel de profundidad en las bases diarias archivadas una vez que se tenga acceso a la API oficial.
+- Se planea incorporar distintas ciudades y un mayor nivel de profundidad en las bases diarias archivadas una vez que se tenga acceso a la API oficial.
 
-- Se espera en un futuro brindar a los usuarios un mayor nivel de análisis de la información incorporando técnicas relacionadas con análisis de texto, redes e impacto de las tendencias.
+- Se pretende en un futuro brindar un mayor nivel de análisis de la información incorporando técnicas relacionadas con análisis de texto, redes e impacto de las tendencias.
 
 ## Cambios y actualizaciones
 
