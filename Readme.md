@@ -3,9 +3,9 @@
 ## Resumen
 - Proyecto con la información diaria de las principales tendencias en Twitter.
 
-- Fecha de corte: 16:30 UTC-6.
+- Fecha de corte: diaria a las 14:00 UTC-6.
 
-- Versión preliminar al 2022-09-24 sin utilización de Twitter API.
+- Versión estable al 2022-09-27 sin utilización de Twitter API.
 
 ## Etapas
 ### Inicial
@@ -31,3 +31,4 @@
 - 2022-09-23: Inicio de continuidad en bases mundial (agreggate world), México y ciudades de México.
 - 2022-09-23: La fecha de corte de la base por países es 2022-09-22 18:49 UTC-6.
 - 2022-09-24: quota problems.
+- 2022-09-27: API set to solve internal quota problems and automatic execution.
