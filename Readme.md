@@ -3,7 +3,7 @@
 ## Resumen
 - Proyecto con la información diaria de las principales tendencias en Twitter.
 
-- Fecha de corte: diaria (a veces) a las 15:00 UTC-6.
+- Fecha de corte: diaria (a veces) a las 15:00 UTC-6 (también a veces).
 
 - Versión estable al 2022-09-27 sin utilización de Twitter API.
 
