@@ -1,5 +1,7 @@
 # Daily-Trends-Twitter
 
+**DEPRECATED PROJECT DUE NEW TWITTER'S API POLICIES**
+
 ## Resumen
 - Proyecto con la información diaria de las principales tendencias en Twitter.
 
